@@ -1,1 +1,0 @@
-print(" Olá Script 2")
